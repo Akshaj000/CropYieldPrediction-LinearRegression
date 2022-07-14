@@ -113,3 +113,12 @@ N	=	number of data values
 
 In mathematics and statistics, covariance is a measure of the relationship between two random variables. The metric evaluates how much – to what extent – the variables change together. In other words, it is essentially a measure of the variance between two variables. However, the metric does not assess the dependency between variables.
 
+#### Here is more about ML models in agriculture
+
+- [Link 1](https://www.google.com/search?q=AI+and+ML+in+agriculture&oq=AI+in+agriculture&aqs=chrome..69i57.4425j0j4&sourceid=chrome&ie=UTF-8) 
+- [Link 2](https://github.com/Akshaj000/NaiveBayesClassifier_CropRecommender)
+
+#### Feel free to correct my work and send a PR. Would love to hear more about Regression models and their use in Agriculture and other sector.
+
+
+
