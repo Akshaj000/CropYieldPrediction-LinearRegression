@@ -99,6 +99,11 @@ TSS	=	total sum of squares
 
 R-squared (R2) is a statistical measure that represents the proportion of the variance for a dependent variable that's explained by an independent variable or variables in a regression model. Whereas correlation explains the strength of the relationship between an independent and dependent variable, R-squared explains to what extent the variance of one variable explains the variance of the second variable. So, if the R2 of a model is 0.50, then approximately half of the observed variation can be explained by the model's inputs.
 
+[Correlation](https://www.statisticshowto.com/probability-and-statistics/correlation-analysis/)
+
+
+Correlation is used to test relationships between quantitative variables or categorical variables. In other words, it’s a measure of how things are related. 
+
 [Covariance](https://corporatefinanceinstitute.com/resources/knowledge/finance/covariance/#:~:text=In%20mathematics%20and%20statistics%2C%20covariance,the%20variance%20between%20two%20variables.)
 
 ![](https://www.gstatic.com/education/formulas2/443397389/en/covariance_formula.svg)
